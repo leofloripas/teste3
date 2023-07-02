@@ -2,4 +2,5 @@ trêsss
 
 teletubies
 
-Esse texto é diferente do teste3-teste-merge-conflicts para gerar o erro.
+Testando o merge conflict
+Esse texto � diferente do teste3-teste-merge-conflicts para gerar o erro.
