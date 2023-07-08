@@ -3,4 +3,6 @@ trÃªsss
 teletubies
 
 Testando o merge conflict
-Esse texto é diferente do teste3-teste-merge-conflicts para gerar o erro.
+Esse texto ï¿½ diferente do teste3-teste-merge-conflicts para gerar o erro.
+
+Testando para mergear com a branch MAIN
